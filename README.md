@@ -7,6 +7,7 @@ Some of the most interesting tests I've found in HackerRank so far.
 * Grid Challenge: https://www.hackerrank.com/challenges/grid-challenge/problem
 * New Year Chaos: https://www.hackerrank.com/challenges/new-year-chaos/problem
 * Truck Tour: https://www.hackerrank.com/challenges/truck-tour/problem
+* Balanced Brackets: https://www.hackerrank.com/challenges/balanced-brackets/problem
 
 The are two of my favorite challenges because of how complex the problem looks, but how really simple the solution actually is. 
 "Keep it simple", right?
