@@ -130,4 +130,5 @@ dmypy.json
 
 test.py
 test-case.txt
+textEditor-testCase.txt
 cheapTwoStacksQueue.py

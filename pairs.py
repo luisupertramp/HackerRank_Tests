@@ -26,7 +26,7 @@ def pairs(k, arr):
         #             # if there are not more elements to substract, dif is more than K so we can exit the while loop
         #             dif = k+1
         
-        # ***** Another solution, more elefant but less efficient *****
+        # ***** Another solution, more elegant but less efficient *****
         # if i < len(arr)-1:
         #     for j in range(i+1, len(arr)):
         #         if number-arr[j] == k :
